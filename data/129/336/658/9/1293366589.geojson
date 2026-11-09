@@ -42,7 +42,7 @@
     "wof:belongsto":[
         102191569,
         85632167,
-        85669049
+        85669039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,13 @@
             "continent_id":102191569,
             "country_id":85632167,
             "locality_id":1293366589,
-            "region_id":85669049
+            "region_id":85669039
         }
     ],
     "wof:id":1293366589,
     "wof:lastmodified":1566614341,
     "wof:name":"Halat Umm al Bayd",
-    "wof:parent_id":85669049,
+    "wof:parent_id":85669039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bh",
     "wof:superseded_by":[],
