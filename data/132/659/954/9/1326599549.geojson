@@ -47,7 +47,7 @@
         "gn:id":290325
     },
     "wof:country":"BH",
-    "wof:geomhash":"422e40a2d7ab678ecddceb97b104c6ba",
+    "wof:geomhash":"1f87d59172740b438ab8dd9cbc5dbcf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     50.61056,
     26.17222000000001
 ],
-  "geometry": {"coordinates":[50.61056,26.17222000000001],"type":"Point"}
+  "geometry": {"coordinates":[50.61056,26.17222],"type":"Point"}
 }

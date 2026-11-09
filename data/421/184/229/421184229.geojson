@@ -47,7 +47,7 @@
     },
     "wof:country":"BH",
     "wof:created":1459009404,
-    "wof:geomhash":"113bde11a88eb17f7ed222e58d7ba967",
+    "wof:geomhash":"3fc9fdb468fa81bf8812ba35a744697c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     50.5138485,
     26.152683
 ],
-  "geometry": {"coordinates":[50.5138485,26.152683],"type":"Point"}
+  "geometry": {"coordinates":[50.513849,26.152683],"type":"Point"}
 }
